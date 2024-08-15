@@ -1,2 +1,3 @@
-# Python
-python Practice 
+# Python Practice From GeekForGeeks
+
+Solving questions from geek for geeks
